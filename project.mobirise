@@ -99,6 +99,11 @@
                   "object-fit": "cover"
                 }
               },
+              "@media (min-width: 768px)": {
+                ".mobile-only": {
+                  "display": "none !important"
+                }
+              },
               ".container .carousel-control": {
                 "margin-bottom": "0"
               },

@@ -812,6 +812,11 @@ a {
     width: 100% !important;
   }
 }
+@media (max-width: 767px) and (min-width: 768px) {
+  .cid-uIxVebgo2C .mobile-only {
+    display: none !important;
+  }
+}
 .cid-uIxVebgo2C .carousel,
 .cid-uIxVebgo2C .carousel-inner {
   display: flex;
