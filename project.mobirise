@@ -94,11 +94,11 @@
             "padding-bottom": "(@paddingBottom * 1rem)",
             "background-color": "@bgColor",
             "#mobileOnlyBlock": {
-              "display": "none"
+              "display": "block"
             },
             "@media (min-width: 768px)": {
               "#mobileOnlyBlock": {
-                "display": "block"
+                "display": "none"
               }
             },
             "@media (max-width: 767px)": {

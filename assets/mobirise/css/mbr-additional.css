@@ -798,11 +798,11 @@ a {
   background-color: #320707;
 }
 .cid-uIxVebgo2C #mobileOnlyBlock {
-  display: none;
+  display: block;
 }
 @media (min-width: 768px) {
   .cid-uIxVebgo2C #mobileOnlyBlock {
-    display: block;
+    display: none;
   }
 }
 @media (max-width: 767px) {
