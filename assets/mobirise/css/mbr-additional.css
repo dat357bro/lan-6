@@ -793,8 +793,8 @@ a {
   }
 }
 .cid-uIxVebgo2C {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #320707;
 }
 .cid-uIxVebgo2C #mobileOnlyBlock {
@@ -807,10 +807,10 @@ a {
 }
 @media (max-width: 767px) {
   .cid-uIxVebgo2C .carousel {
-    min-height: 330px;
+    min-height: 110px;
   }
   .cid-uIxVebgo2C .carousel img {
-    height: 330px;
+    height: 110px;
     object-fit: cover;
   }
   .cid-uIxVebgo2C .container .carousel-control {
