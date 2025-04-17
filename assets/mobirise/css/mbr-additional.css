@@ -795,7 +795,15 @@ a {
 .cid-uIxVebgo2C {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-color: #320707;
+}
+.cid-uIxVebgo2C #mobileOnlyBlock {
+  display: none;
+}
+@media (min-width: 768px) {
+  .cid-uIxVebgo2C #mobileOnlyBlock {
+    display: block;
+  }
 }
 @media (max-width: 767px) {
   .cid-uIxVebgo2C .carousel {
@@ -903,4 +911,12 @@ a {
   .cid-uIxVebgo2C .carousel-indicators {
     display: none !important;
   }
+}
+.cid-uIBANManzO {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-uIBANManzO img {
+  width: auto;
 }
